@@ -33,4 +33,6 @@ Accuration Standart :
 Dataset\
   Record : 1.215 \
 https://drive.google.com/drive/folders/120cFfMqC25F9PQpvt6EsVVfvD6y9Jpgh?usp=share_link \
-
+\
+Model\
+https://drive.google.com/drive/folders/1DuZE9LZaeFo8EE6-z1aW0DTihDp2NSHU?usp=share_link
