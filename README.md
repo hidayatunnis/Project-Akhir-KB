@@ -26,5 +26,4 @@ Accuration Standart :
   b. Validation = 99.99% \
 \
 \
-Dataset 
-\
+Dataset
