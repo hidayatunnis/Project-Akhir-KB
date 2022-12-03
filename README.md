@@ -19,7 +19,7 @@ Phase :
 Accuration Standart : 
   Minimum Requirement : \
     a. Training = 80% \
-    b. Validation = 75% \
+    b. Validation = 75% 
 
   Maximum Requirement : 
     a. Training = 99.99% \
