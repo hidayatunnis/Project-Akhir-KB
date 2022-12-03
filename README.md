@@ -20,7 +20,7 @@ Accuration Standart :
 1. Minimum Requirement : \
   a. Training = 80% \
   b. Validation = 75% \
-\
+
 2. Maximum Requirement : 
   a. Training = 99.99% \
   b. Validation = 99.99% \
