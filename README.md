@@ -9,11 +9,11 @@ Examination : 10-11 Dec \
 \
 \
 Phase : 
-1. Data Collecting \
-2. Data Pre-Processing \
-3. Data Analyzing and Visualization \
-4. Data Modeling \
-5. Evaluation \
+1. Data Collecting 
+2. Data Pre-Processing 
+3. Data Analyzing and Visualization 
+4. Data Modeling 
+5. Evaluation 
 \
 \
 Accuration Standart : 
