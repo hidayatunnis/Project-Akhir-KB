@@ -26,4 +26,5 @@ Accuration Standart :
     b. Validation = 99.99% \
 \
 \
-Dataset
+Dataset\
+https://drive.google.com/drive/folders/120cFfMqC25F9PQpvt6EsVVfvD6y9Jpgh?usp=share_link \
