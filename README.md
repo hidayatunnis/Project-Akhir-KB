@@ -27,4 +27,5 @@ Accuration Standart :
 \
 \
 Dataset\
+  Record : 1.215 \
 https://drive.google.com/drive/folders/120cFfMqC25F9PQpvt6EsVVfvD6y9Jpgh?usp=share_link \
