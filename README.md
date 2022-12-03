@@ -2,7 +2,7 @@
 
 This Repository is meant for Artificial Intelligence Final Project \
 The Final Project is in the form of Machine Learning Project Using Deep Learning With Natural Language Processing (NLP) or Image Processing \
-\
+
 ## Kelompok 4 
 ## Kelas Perbaikan 2019
 
