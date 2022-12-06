@@ -45,7 +45,7 @@ Dataset\
   Record : 1.215 \
 https://drive.google.com/drive/folders/120cFfMqC25F9PQpvt6EsVVfvD6y9Jpgh?usp=share_link \
 Penjelasan Dataset :
-Dataset ini merupakan dataset gambar dengan jumlah total 1.215 gambar dengan 9 kelas berupa warna masing-masing berisi 135 gambar, warna yang termasuk yaitu:
+Dataset ini merupakan dataset gambar dengan jumlah total 1.215 gambar dengan 9 kelas berupa warna masing-masing berisi 135 gambar, warna yang termasuk yaitu:\
 a. black \
 b. blue \
 c. brown \
