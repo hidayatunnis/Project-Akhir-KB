@@ -1,6 +1,18 @@
 # Project-Akhir-KB
 
 ## Table of Contents
+- [Project-Akhir-KB](#project-akhir-kb)
+  * [Table of Contents](#table-of-contents)
+  * [About Project](#about-project)
+  * [Kelompok 4 (Kelas Perbaikan 2019)](#kelompok-4--kelas-perbaikan-2019-)
+  * [Testing Exam](#testing-exam)
+  * [Phase :](#phase--)
+  * [Accuration Standart](#accuration-standart)
+  * [Dataset](#dataset)
+  * [Model](#model)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## About Project
 This Repository is meant for Artificial Intelligence Final Project \
