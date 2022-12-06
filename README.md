@@ -34,9 +34,9 @@ Jobdesk :
 ## Testing Exam
 Working Time : 4 Weeks (Since Oct 30) \
 Due : 6 Dec 2022 \
-Examination : 10-11 Dec \
+Examination : 10-11 Dec 
 
-\
+
 ## Phase : 
 1. Data Collecting 
 2. Data Pre-Processing 
@@ -44,7 +44,7 @@ Examination : 10-11 Dec \
 4. Data Modeling 
 5. Evaluation 
 
-\
+
 ## Accuration Standart  
   Minimum Requirement : \
     a. Training = 80% \
@@ -52,9 +52,9 @@ Examination : 10-11 Dec \
 
   Maximum Requirement : \
     a. Training = 99.99% \
-    b. Validation = 99.99% \
+    b. Validation = 99.99% 
 
-\
+
 ## Dataset
 Record : 1.215 \
 Penjelasan Dataset :
@@ -71,7 +71,7 @@ i. yellow \
 \
 Dataset ini digabungkan dari beberapa dataset lain yang memiliki warna, seperti dataset, barang, buah, bangunan, dan mobi\
 Dataset Link : https://drive.google.com/drive/folders/120cFfMqC25F9PQpvt6EsVVfvD6y9Jpgh?usp=share_link \
-\
+
 
 ## Model
 Model Link : https://drive.google.com/drive/folders/1DuZE9LZaeFo8EE6-z1aW0DTihDp2NSHU?usp=share_link
