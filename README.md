@@ -70,7 +70,7 @@ h. white \
 i. yellow \
 \
 Dataset ini digabungkan dari beberapa dataset lain yang memiliki warna, seperti dataset, barang, buah, bangunan, dan mobi\
-Dataset Link : https://drive.google.com/drive/folders/120cFfMqC25F9PQpvt6EsVVfvD6y9Jpgh?usp=share_link \
+Dataset Link : https://drive.google.com/drive/folders/120cFfMqC25F9PQpvt6EsVVfvD6y9Jpgh?usp=share_link 
 
 
 ## Model
