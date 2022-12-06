@@ -31,7 +31,7 @@ Examination : 10-11 Dec \
 5. Evaluation 
 \
 \
-## Accuration Standart : 
+## Accuration Standart  
   Minimum Requirement : \
     a. Training = 80% \
     b. Validation = 75% 
@@ -41,9 +41,8 @@ Examination : 10-11 Dec \
     b. Validation = 99.99% \
 \
 \
-## Dataset\
-  Record : 1.215 \
-https://drive.google.com/drive/folders/120cFfMqC25F9PQpvt6EsVVfvD6y9Jpgh?usp=share_link \
+## Dataset
+Record : 1.215 \
 Penjelasan Dataset :
 Dataset ini merupakan dataset gambar dengan jumlah total 1.215 gambar dengan 9 kelas berupa warna masing-masing berisi 135 gambar, warna yang termasuk yaitu:\
 a. black \
@@ -56,8 +55,9 @@ g. violet \
 h. white \
 i. yellow \
 \
-Dataset ini digabungkan dari beberapa dataset lain yang memiliki warna, seperti dataset, barang, buah, bangunan, dan mobil
+Dataset ini digabungkan dari beberapa dataset lain yang memiliki warna, seperti dataset, barang, buah, bangunan, dan mobi\
+Dataset Link : https://drive.google.com/drive/folders/120cFfMqC25F9PQpvt6EsVVfvD6y9Jpgh?usp=share_link \
 \
 \
-## Model\
-https://drive.google.com/drive/folders/1DuZE9LZaeFo8EE6-z1aW0DTihDp2NSHU?usp=share_link
+## Model
+Model Link : https://drive.google.com/drive/folders/1DuZE9LZaeFo8EE6-z1aW0DTihDp2NSHU?usp=share_link
